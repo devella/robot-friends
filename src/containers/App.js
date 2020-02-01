@@ -4,7 +4,6 @@ import SearchBox from '../components/SearchBox';
 import Scroll from '../components/Scroll';
 import'./App.css';
 
-
 class App extends Component {
   constructor() {
     super()
@@ -13,7 +12,6 @@ class App extends Component {
       searchfield: '' 
     }
   }
-
 
   componentDidMount() {
     fetch('https://jsonplaceholder.typicode.com/users')
@@ -46,9 +44,5 @@ render() {
   }
   
   }
-
-
-
-
 
 export default App;
