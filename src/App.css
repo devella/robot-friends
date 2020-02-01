@@ -1,0 +1,11 @@
+@font-face {
+  font-family: 'Comic Queens Italic';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Comic Queens Italic'), url('Comic Queens Italic.woff') format('woff');
+  }
+
+  h1 {
+    font-family: 'Comic Queens Italic';
+    
+  }
