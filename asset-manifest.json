@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/robot-friends/static/css/main.15fe9b6c.chunk.css",
+    "main.js": "/robot-friends/static/js/main.77c94c22.chunk.js",
+    "main.js.map": "/robot-friends/static/js/main.77c94c22.chunk.js.map",
+    "runtime-main.js": "/robot-friends/static/js/runtime-main.57950e2e.js",
+    "runtime-main.js.map": "/robot-friends/static/js/runtime-main.57950e2e.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/robot-friends/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ee9db53a.chunk.js": "/robot-friends/static/js/2.ee9db53a.chunk.js",
+    "static/js/2.ee9db53a.chunk.js.map": "/robot-friends/static/js/2.ee9db53a.chunk.js.map",
+    "index.html": "/robot-friends/index.html",
+    "precache-manifest.18aef6de888807c944df2722897396fd.js": "/robot-friends/precache-manifest.18aef6de888807c944df2722897396fd.js",
+    "service-worker.js": "/robot-friends/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/robot-friends/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.15fe9b6c.chunk.css.map": "/robot-friends/static/css/main.15fe9b6c.chunk.css.map",
+    "static/js/2.ee9db53a.chunk.js.LICENSE": "/robot-friends/static/js/2.ee9db53a.chunk.js.LICENSE",
+    "static/media/App.css": "/robot-friends/static/media/Comic Queens Italic.cb5b7b57.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.57950e2e.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.ee9db53a.chunk.js",
+    "static/css/main.15fe9b6c.chunk.css",
+    "static/js/main.77c94c22.chunk.js"
+  ]
+}
