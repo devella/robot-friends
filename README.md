@@ -5,12 +5,12 @@ To view a live example, **[click here](https://devella.github.io/robot-friends/)
 
 Front-End
 
-HTML5 CSS3 React.js
+HTML5, CSS3, React.js
 
 React Packages
 
-Create React App Tachyons
+Create React App,  Tachyons
 
 APIs
 
-RoboHash JSONPlaceholder
+RoboHash, JSONPlaceholder
